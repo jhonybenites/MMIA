@@ -63,11 +63,6 @@ static const uint32_t reg_values[4][10] = {
 		}
 };
 
-
-
-
-
-
 void sct_init(void)
 {
 //	RCC->AHBENR |=RCC_AHBENR_GPIOBEN;
