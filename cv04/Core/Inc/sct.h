@@ -1,7 +1,7 @@
 /*
  * sct.h
  *
- *  Created on: 19. 2. 2020
+ *  Created on: 28. 2. 2020
  *      Author: student
  */
 
