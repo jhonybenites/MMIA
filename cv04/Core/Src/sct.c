@@ -1,7 +1,7 @@
 /*
  * sct.c
  *
- *  Created on: 19. 2. 2020
+ *  Created on: 28. 2. 2020
  *      Author: student
  */
 #include "stm32f0xx.h"
